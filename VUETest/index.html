@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+<div id="app">
+	<input type="text" v-model="myName">
+	<div>{{myName}}</div>
+	<button v-on:click="onMyClick('myVar')">changeMe</button>
+	<div>
+	{{myNum|add}}
+	</div>
+</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.2.6/vue.js"></script>
+	<script>
+	Vue.filter('add',function(val){
+		return val + '$'
+	})
+		new Vue({
+			el: '#app',
+			data: {
+				myName: 'testttt',
+				myNum: 1,
+			},
+			computed:{
+
+			},
+			watch:{
+				//this.myName(prev,new)
+			},
+			methods: {
+				onMyClick:function(varrr){
+					this.myName=varrr
+				}
+			},
+		});
+	</script>
+</body>
+</html>
