@@ -1,0 +1,32 @@
+.icon{
+	max-width: 150px;
+	margin: 0 auto;
+	display: block;
+}
+img.img-responsive { 
+    width:100%;
+}
+.navbar  {
+	background-color: #d3e3ff;
+}
+.bgimage {
+    background-image: url('../images/truckBG.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 200px;
+}
+@font-face {
+    font-family: 'myFont';
+    src: url('../font/CooperBlackStd.otf');
+}
+.white{
+	color: #FFFFFF;
+	text-align: center;
+	margin: auto;
+	padding: 60px;
+	font-family: 'myFont';
+}
+.navbar{
+	border: 0;
+	margin:  0 0 0 0 ;
+}

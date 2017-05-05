@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inde",
+				"z-index"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"m",
+				"myProjects"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"FF",
+				"FDF6E3"
+			],
+			[
+				"au",
+				"autofocus	Attr"
+			],
+			[
+				"fr",
+				"freedom"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"led",
+				"ledStat"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"prin",
+				"println"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Y/_sandbox/test/jay/bigMove/bootstrap/css/bootstrap-responsive.css",
+		"/Y/_sandbox/test/jay/bigMove/index.html",
+		"/Y/_sandbox/test/jay/bigMove/bootstrap/css/bootstrap.css",
+		"/Y/_sandbox/test/jay/bigMove/index2.html",
+		"/Y/_sandbox/test/jay/bigMove/bootstrap/css/bootstrap-responsive.min.css",
+		"/Y/_sandbox/test/jay/bigMove/css/jumbotron.css",
+		"/Y/_sandbox/test/jay/bigMove/css/j.css",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/bigMove/index.html",
+		"/C/projects/storage/sub.html",
+		"/C/projects/index.html",
+		"/Z/_sandbox/ProjectAIR/index.htm",
+		"/Z/_sandbox/BLDP_2015/Dev/index.htm",
+		"/C/projects/js/controllers.js",
+		"/C/projects/js/app.js",
+		"/C/projects/storage/projectDetails.html",
+		"/C/projects/css/style.css",
+		"/C/projects/ttt.htm",
+		"/Z/_sandbox/CASL/index.htm",
+		"/Z/_sandbox/BLDP_2015/Dev/en/Branch Leadership Development Program Final Assessment - Storyline output/story.html",
+		"/Z/_sandbox/CASL/index2.htm",
+		"/C/projects/vertical.html",
+		"/C/projects/lib/projects.json",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/projects/lib/angular/js/controllers.js",
+		"/C/Program Files (x86)/Arduino/libraries/BY8x0116P/BY8x0116P.cpp",
+		"/Z/_sandbox/eForm/index.htm",
+		"/Z/elct/content/ISPM/media/xml/ISPM_fr.xml",
+		"/Z/_sandbox/Investment Advanced/index.htm",
+		"/Z/elct/content/ISPM/media/xml/ISPM_en.xml",
+		"/C/Program Files (x86)/Arduino/libraries/DFPlayer_Mini_Mp3/DFPlayer_Mini_Mp3.cpp",
+		"/C/Program Files (x86)/Arduino/libraries/DFPlayer_Mini_Mp3/DFPlayer_Mini_Mp3.h",
+		"/C/Program Files (x86)/Arduino/libraries/BY8x0116P/README.md",
+		"/C/Program Files (x86)/Arduino/libraries/BY8x0116P/keywords.txt",
+		"/C/Program Files (x86)/Arduino/libraries/BY8x0116P/BY8x0116P.h",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/MP3by8301.cpp",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/simple.ino",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/MP3by8301.h",
+		"/C/Program Files (x86)/Arduino/libraries/MP3by8301/MP3by8301.cpp",
+		"/C/Program Files (x86)/Arduino/libraries/MP3by8301/MP3by8301.h",
+		"/C/Program Files (x86)/Arduino/libraries/WiFi/examples/WiFiChatServer/WiFiChatServer.ino",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/MP3by8301/MP3by8301.h",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/MP3by8301/MP3by8301.cpp",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/MP3by8301/keywords.txt",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/MP3by8301/examples/super_simple/super_simple.ino",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/MP3by8301/examples/more_complex/more_complex.ino",
+		"/C/Program Files (x86)/Arduino/libraries/jMotor/jMotor.cpp",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/by8301/keywords.txt",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/by8301/by8301.h",
+		"/Z/elct/_CodePromotion/ELCT_2016-05-27/content/AML/fr-CA/Topic_Introduction_33.html",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/SL_AS3/published/demo output/story.html",
+		"/Z/_sandbox/test/DMC_Projects/French/index.html",
+		"/Z/elct/content/FP/fr-CA/Scenario/ScenarioPage07.aspx",
+		"/Z/elct/content/FP/en-CA/Scenario/ScenarioPage07.aspx",
+		"/C/Program Files (x86)/Arduino/libraries/LiquidCrystal_I2C/keywords.txt",
+		"/C/Program Files (x86)/Arduino/libraries/jMotor/keywords.txt",
+		"/C/Program Files (x86)/Arduino/libraries/TimedAction/keywords.txt",
+		"/C/Program Files (x86)/Arduino/libraries/LiquidCrystal_I2C/diff.txt",
+		"/C/Program Files (x86)/Arduino/libraries/RobotIRremote/keywords.txt",
+		"/Z/elct/content/AML/en-CA/Topic_Introduction_44.html",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch01/01_03/bootstrap/index.html",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch01/01_03/bootstrap/js/script.js",
+		"/Z/elct/content/AML/fr-CA/Topic_Introduction_01.html",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/serproxy-0.1.4.bin/serproxy.cfg",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/jMotor/jMotor.cpp",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_1_Page2.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_1_Page1.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_1_Page3.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_1_Page4.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_2_Page2.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_2_Page1.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_3_Page1.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_3_Page2.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_4_Page1.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_4_Page2.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_4_Page3.html",
+		"/Z/elct/content/Fiduciary/en-CA/ClientRelationship/btn_5_Page1.html",
+		"/Z/elct/content/Fiduciary/en-CA/FiduciaryDuties/btn_4_Page1.html",
+		"/Z/elct/content/Fiduciary/en-CA/FiduciaryDuties/btn_1_Page1.html",
+		"/Z/elct/content/Fiduciary/en-CA/FiduciaryDuties/btn_2_Page1.html",
+		"/Z/elct/content/Fiduciary/en-CA/FiduciaryDuties/btn_3_Page1.html",
+		"/Z/elct/content/Fiduciary/en-CA/FiduciaryDuties/btn_3_Page2.html",
+		"/Z/elct/content/Fiduciary/en-CA/FiduciaryDuties/btn_4_Page2.html",
+		"/Z/elct/content/Fiduciary/en-CA/FiduciaryDuties/btn_4_Page3.html",
+		"/Z/elct/content/Fiduciary/fr-CA/FiduciaryDuties/btn_4_Page2.html",
+		"/Z/elct/content/Fiduciary/fr-CA/FiduciaryDuties/btn_3_Page1.html",
+		"/Z/elct/content/AIA/en-CA/Topic_19.html",
+		"/Z/elct/content/ACAB/en-CA/Topic_08.html",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch05/05_05/bootstrap/index.html",
+		"/Z/elct/Css/RP_main.css",
+		"/Z/elct/content/Fiduciary/en-CA/FiduciaryDuties/cr_en.css",
+		"/Z/elct/content/AODA/en-CA/Topic_13_CA.html",
+		"/Z/elct/content/AIA/fr-CA/Topic_14.html",
+		"/Z/elct/content/AIA/en-CA/Topic_14.html",
+		"/Z/elct/content/AIA/en-CA/Topic_03.html",
+		"/Z/elct/content/AIA/en-CA/Topic_06.html",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/demo/index.html",
+		"/Z/elct/content/AML/fr-CA/Topic_Introduction_27.html",
+		"/Z/elct/content/AML/fr-CA/Topic_Introduction_34.html",
+		"/Z/elct/content/CP/en-CA/Topic_Introduction_04.html",
+		"/Z/elct/content/CP/en-CA/Topic_Introduction_03.html",
+		"/Z/elct/content/CP/en-CA/Topic_Introduction_38.html",
+		"/Z/elct/content/CP/en-CA/Topic_Introduction_05.html",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/jMotor/jMotor.h",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/jMotor/examples/general/general.ino",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/jMotor/examples/serialControl/serialControl.ino",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/jMotor/keywords.txt",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/jMotor/examples/serialControl",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Undershield/keywords.txt",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Undershield/Undershield.h",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Undershield/Undershield.cpp",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Morse/keywords.txt",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Morse/examples/sos/sos.ino",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Morse/Morse.cpp",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Morse/Morse.h",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/keywords.txt",
+		"/C/Program Files (x86)/Arduino/libraries/Morse/Morse.cpp",
+		"/C/Program Files (x86)/Arduino/libraries/Servo/keywords.txt",
+		"/C/Program Files (x86)/Arduino/libraries/Morse/Morse.h",
+		"/C/Program Files (x86)/Arduino/libraries/FastLED/keywords.txt",
+		"/C/Program Files (x86)/Arduino/libraries/AnalogAccelerometer/ADXL335.h",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/med/med.ino",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Desktop/Blink.ino",
+		"//officescchome17.office.adroot.bmogc.net/scc17userdata$/jyu05/Home/Arduino/tilt/tilt.ino",
+		"/C/work files/IMPORTANT WORK FILES/xml/BlackBerry_05_en.xml",
+		"/C/Program Files (x86)/Arduino/libraries/NewPing/NewPing.h",
+		"/Z/elct/content/FATCA/en-CA/Glossary.html",
+		"/Z/elct/content/FATCA/en-CA/Topic_01.html",
+		"/Z/elct/content/FATCA/en-CA/ContactUs.html",
+		"/Z/elct/content/AODA/en-CA/Topic_17_ON.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-md",
+			"hero-unit",
+			"1b1b1b",
+			"background-color",
+			"container",
+			"#FF1111",
+			"#111111",
+			"color",
+			"navbar-inner",
+			"color",
+			"../assets/",
+			"last",
+			"artist",
+			"0079C1",
+			"_software_serial",
+			"MP3FLASH16P",
+			"%20",
+			"GetPlayer",
+			"Prendre une décision ",
+			"Considérez",
+			"consider",
+			"You're",
+			"; \"",
+			"  ",
+			"   ",
+			"  ",
+			";",
+			"pinMode",
+			"digit",
+			"pinMode",
+			"class=\"clickButtonblue\"",
+			"type=\"button\"",
+			"button",
+			".button",
+			"500",
+			"224",
+			"left: 18px;",
+			"8px",
+			"btn-default",
+			"btn-lg",
+			"btn-default",
+			"info",
+			"<li",
+			"<button",
+			"<ul",
+			"\n\n\n\n\n\n\n\n\n\n\n\n",
+			"css",
+			"change",
+			"css",
+			"\n\n\n\n\n\n\n\n\n\n\n\n\n ",
+			"The Financial Consumer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#111111",
+			"#FF1111",
+			"bootstrap/",
+			"MP3by8301",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
