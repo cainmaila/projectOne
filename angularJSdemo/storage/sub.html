@@ -1,0 +1,30 @@
+<section class="projectPage">
+	<div class="search">
+	<h1>Project List</h1>
+	<label>Find:</label>
+	<input ng-model="query" placeholder="find my projects" autofocus>
+	<label class="fromgroup">by:</label>
+	<select ng-model="projectOrder">
+		<option value="pName" selected>Name</option>
+		<option value="detail">Detail</option>
+	</select>
+	<br>
+	<label class="fromgroup">
+		<input type="radio" ng-model="direction" name="direction" checked>ascending
+	</label>
+	<label class="fromgroup">
+		<input type="radio" ng-model="direction" name="direction" value="rev">decending
+	</label>
+	</div>
+	<ul class="artistlist">
+		<li class="artist cf" ng-repeat="x in allProjects | filter: query | orderBy:projectOrder:direction">
+		<a href="#/projectDetails/{{allProjects.indexOf(x)}}">
+			<img ng-src="images/{{x.tName}}.jpg" alt="Image of {{x.pName}}">
+			<div class="info">
+				<h2>{{x.pName}}</h2>
+				<h3>{{x.detail}}</h3>
+			</div>
+		</a>
+		</li>
+	</ul>
+</section>

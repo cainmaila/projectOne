@@ -1,0 +1,11 @@
+<section class="artistinfo">
+	<div class="artist cf" ng-model="allProjects">
+	<h1>{{allProjects[whichProject].pName}}</h1>
+		<div class="info">
+			<h3></h3>
+			<img ng-src="images/{{allProjects[whichProject].tName}}.jpg" alt="Image of {{allProjects[whichProject].pName}}">
+			<div class="bio">{{allProjects[whichProject].detail}}</div>
+		</div>
+	</div>
+	<a href="#/sub">&laquo; BACK</a>
+</section>
