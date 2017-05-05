@@ -11,7 +11,7 @@ export default new Router({
         name: 'Hello',
         component: Hello
     }, {
-        path: '/p2',
+        path: '/p2', //第二頁
         name: 'p2',
         component: P2
     }]
